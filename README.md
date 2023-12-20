@@ -41,6 +41,11 @@ If the camera continuously collides with the walls, you can turn off the auto na
 self.AUTO_NAV = True  #change this to enable/disable NAV
 ```
 
+Project Video:  
+Uploading Robot_Perception.mp4…
+
+
+
 This project was created by Prof. Cheng Feng (cfeng at nyu dot edu) of [AI4CE Lab](https://github.com/ai4ce/vis_nav_player/tree/master)
 
 
