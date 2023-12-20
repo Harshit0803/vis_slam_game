@@ -17,5 +17,4 @@ conda activate game
 python player.py
 ```
 
-3. Modify the player.py to implement your own solutions, 
-unless you have photographic memories!
+
