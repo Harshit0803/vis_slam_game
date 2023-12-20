@@ -1,8 +1,8 @@
 # vis_slam_game
 
-This is the course project platform for NYU ROB-GY 6203 Robot Perception. 
+This is the solution for the course project for NYU ROB-GY 6203 Robot Perception. 
 
-# Instructions for Players
+# Installation steps for the environment
 1. Install
 ```commandline
 conda update conda
