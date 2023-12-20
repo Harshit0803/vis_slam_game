@@ -55,6 +55,6 @@ Project Video:
 
 https://github.com/Harshit0803/vis_slam_game/assets/29999543/c63ec94c-ae37-44ef-bf47-429fdae33eaf
 
-This project was created by Prof. Cheng Feng (cfeng at nyu dot edu) of [AI4CE Lab](https://github.com/ai4ce/vis_nav_player/tree/master)
+This project was created by Prof. Chen Feng (cfeng at nyu dot edu) of [AI4CE Lab](https://github.com/ai4ce/vis_nav_player/tree/master)
 
 
