@@ -20,7 +20,7 @@ git clone https://github.com/cvg/LightGlue.git && cd LightGlue
 python -m pip install -e .
 ```
 
-3. Git clone repository
+3. Git clone repository  
 Clone the vis_slam_game repository using:
 ```commandline
 https://github.com/Harshit0803/vis_slam_game.git
