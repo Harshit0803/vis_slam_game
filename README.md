@@ -1,6 +1,10 @@
 # vis_slam_game
 
-This is the solution for the course project for NYU ROB-GY 6203 Robot Perception. 
+This is our solution for the course project for NYU ROB-GY 6203 Robot Perception. 
+
+![Product Name Screen Shot](/slamgame.png)
+
+The above flowchart shows our pipeline to obtain Odometry for our robot.
 
 # Installation steps for the environment
 1. Environment Setup  
